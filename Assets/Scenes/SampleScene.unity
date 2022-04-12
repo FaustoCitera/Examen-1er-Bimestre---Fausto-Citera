@@ -292,8 +292,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f9921f112e8224ea7bbdceda527afc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CantDeDias: 1
-  CantDeDiasDeLluvia: 2
+  CantDeDias: 4
+  CantDeDiasDeLluvia: 0
   CantidadDeTaxis: 1
 --- !u!4 &638497615
 Transform:

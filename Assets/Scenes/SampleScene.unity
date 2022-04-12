@@ -293,7 +293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CantDeDias: 1
-  CantDeDiasDeLluvia: 1
+  CantDeDiasDeLluvia: 2
   CantidadDeTaxis: 1
 --- !u!4 &638497615
 Transform:
